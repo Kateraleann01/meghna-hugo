@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: "/images/dsc09463.jpg"
+  bg_image: dsc09463.jpg
   icon: ''
   title: Photography By Katera
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
