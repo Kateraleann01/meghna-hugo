@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/dsc09463.webp"
+  bg_image_webp: ''
   bg_image: "/images/dsc09463.jpg"
   icon: ''
   title: Photography By Katera
