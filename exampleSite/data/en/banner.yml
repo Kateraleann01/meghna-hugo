@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: ''
+  bg_image: 'images/dsc09463.jpg'
   icon: ''
   title: Photography By Katera
   content: Capture the moment. Create the memory.
